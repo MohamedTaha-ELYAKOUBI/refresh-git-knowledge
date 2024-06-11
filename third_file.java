@@ -1,4 +1,3 @@
-String tahiya="Assalamo alaikom";
-String rodTahiya="Wa alaikom salam";
-String name="Ahmad";
-//added comment
+Integer countOfTries ="100000";
+String Tawakkol = "La hawla wala Qowwata illa billah";
+double time=1526.3265;
