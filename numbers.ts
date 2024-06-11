@@ -1,3 +1,3 @@
-let uno=1;
-let dos=2;
-let tres=3;
+let one=1;
+let two=2;
+let three=3;
