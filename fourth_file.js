@@ -1,0 +1,1 @@
+var Tahiyya = "Assalamo Alaikom";
